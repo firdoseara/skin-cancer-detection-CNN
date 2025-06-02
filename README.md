@@ -108,9 +108,9 @@ streamlit run skin_cancer_app.py
 
 ## 👨‍💻 Author
 
-**Zeeshan A F**
+**Firdose Ara**
 AI & Data Science Enthusiast
-GitHub: [zeeshanaf02](https://github.com/zeeshanaf02)
+GitHub: [zeeshanaf02](https://github.com/firdoseara)
 
 ---
 
