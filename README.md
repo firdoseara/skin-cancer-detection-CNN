@@ -110,7 +110,7 @@ streamlit run skin_cancer_app.py
 
 **Firdose Ara**
 AI & Data Science Enthusiast
-GitHub: [zeeshanaf02](https://github.com/firdoseara)
+GitHub: [firdoseara](https://github.com/firdoseara)
 
 ---
 
